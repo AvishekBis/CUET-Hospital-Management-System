@@ -188,7 +188,8 @@ JAZZMIN_SETTINGS = {
         "auth": "fas fa-users-cog",
         "auth.user": "fas fa-user",
     },
-    "show_ui_builder": True
+    "show_ui_builder": True,
+    "custom_css": "admin_custom.css",
 }
 
 
